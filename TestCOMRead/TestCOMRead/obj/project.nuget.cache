@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GyQVFDJKxp5UqTMrRZFkSdpA254glOd5Sk1tvM+lnKViE9zU2vwqtBCWP2Blv7tj2BLgWddWWvOikxH/G9b9Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nianl\\OneDrive\\Documenten\\kwartiel 3\\Microcontroller2\\02Week_UART_Csharp\\TestCOMRead\\TestCOMRead\\TestCOMRead.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nianl\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0-preview.1.22076.8\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\nianl\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0-preview.1.22076.8\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\nianl\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0-preview.1.22076.8\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\nianl\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0-preview.1.22076.8\\runtime.native.system.io.ports.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\nianl\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0-preview.1.22076.8\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\nianl\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0-preview.1.22076.8\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\nianl\\.nuget\\packages\\system.io.ports\\7.0.0-preview.1.22076.8\\system.io.ports.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
+  "logs": []
+}
